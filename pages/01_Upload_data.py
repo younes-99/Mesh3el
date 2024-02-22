@@ -70,3 +70,14 @@ try:
 except:
     pass
 
+
+
+### Output the 
+# Summary of the tables
+# what are the columns,data.size(), data.desc(),data.info()
+
+# take this info and store into file
+# chat gpt read the file
+# chat gpt uses this as context whenever the user prompt a problem.
+# chat gpt responds with a graph
+# user can save the graph in another tab.
